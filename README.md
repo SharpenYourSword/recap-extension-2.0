@@ -5,6 +5,8 @@ A new version of the RECAP extension that supports IE, Firefox and Chrome.
 
 (Currently under development -- not yet working!)
 
+Please report all issues at the centralized RECAP issue repo, [/freelawproject/recap](https://github.com/freelawproject/recap/issues).
+
 ## Getting started
 1. Clone this repo: `git clone https://github.com/freelawproject/recap-extension-2.0.git`
 2. `cd recap-extension-2.0`
